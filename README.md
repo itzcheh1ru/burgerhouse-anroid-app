@@ -5,36 +5,37 @@ A modern Android application for ordering delicious burgers with an intuitive us
 ## 📱 Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/01_splash_screen.jpg)
+![Splash Screen](screenshots/01_splash_screen.jpg)<br><br>
 *Welcome screen featuring the Burger House logo and branding*
 
 ### Onboarding Screen
-![Onboarding Screen](screenshots/02_onboarding_screen.jpg)
+![Onboarding Screen](screenshots/02_onboarding_screen.jpg)<br><br>
 *Introduction screen with burger illustration and call-to-action*
 
 ### Sign Up Screen
-![Sign Up Screen](screenshots/03_signup_screen.jpg)
+![Sign Up Screen](screenshots/03_signup_screen.jpg)<br><br>
 *User registration with social login options*
 
 ### Login Screen
-![Login Screen](screenshots/04_login_screen.jpg)
+![Login Screen](screenshots/04_login_screen.jpg)<br><br>
 *Secure login interface with social authentication*
 
 ### Home Screen
-![Home Screen](screenshots/05_home_screen.jpg)
+![Home Screen](screenshots/05_home_screen.jpg)<br><br>
 *Main menu showcasing popular burgers with ratings*
 
 ### Cart Screen
-![Cart Screen](screenshots/06_cart_screen.jpg)
+![Cart Screen](screenshots/06_cart_screen.jpg)<br><br>
 *Shopping cart with order management*
 
 ### Payment Screen
-![Payment Screen](screenshots/07_payment_screen.jpg)
+![Payment Screen](screenshots/07_payment_screen.jpg)<br><br>
 *Secure payment processing with multiple card options*
 
 ### Profile Screen
-![Profile Screen](screenshots/08_profile_screen.jpg)
+![Profile Screen](screenshots/08_profile_screen.jpg)<br><br>
 *User profile management and settings*
+
 
 ## 🚀 Features
 
