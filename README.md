@@ -190,16 +190,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Student ID:** IT23426344  
-**Batch:** Y2S2 WE IT 2.1  
-**Course:** IT2010 – Mobile Application Development  
-**Institution:** SLIIT - Faculty of Computing
+**Name:** Hirusha Thisayuru Ellawala
 
 ## 📞 Support
 
 For support and questions, please contact:
-- Email: your.email@example.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/burger-house-app/issues)
+- Email: thisayuruhirusha@gmail.com
 
 ---
 
