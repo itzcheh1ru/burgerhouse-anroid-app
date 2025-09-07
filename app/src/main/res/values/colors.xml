@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 60% - Primary Green (Dominant) -->
+    <color name="primary_green">#2E7D32</color>
+    <color name="primary_green_light">#4CAF50</color>
+    <color name="primary_green_dark">#1B5E20</color>
+    
+    <!-- 30% - White (Secondary) -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_soft">#F5F5F5</color>
+    <color name="white_off">#FAFAFA</color>
+    
+    <!-- 10% - Dark Accents (Accent) -->
+    <color name="dark_accent">#212121</color>
+    <color name="dark_gray">#424242</color>
+    <color name="light_gray">#757575</color>
+    
+    <!-- Additional colors for better UI -->
+    <color name="black">#FF000000</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#212121</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+</resources>
