@@ -5,7 +5,7 @@ A modern Android application for ordering delicious burgers with an intuitive us
 ## 📱 Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/01_splash_screen.png)
+![Splash Screen](screenshots/01_splash_screen.jpg)
 *Welcome screen featuring the Burger House logo and branding*
 
 ### Onboarding Screen
