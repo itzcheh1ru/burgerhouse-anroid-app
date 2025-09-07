@@ -13,11 +13,11 @@ A modern Android application for ordering delicious burgers with an intuitive us
 *Introduction screen with burger illustration and call-to-action*
 
 ### Sign Up Screen
-![Sign Up Screen](screenshots/03_signup_screen.jpg)<br><br>
+![Sign Up Screen](screenshots/04_signup_screen.jpg)<br><br>
 *User registration with social login options*
 
 ### Login Screen
-![Login Screen](screenshots/04_login_screen.jpg)<br><br>
+![Login Screen](screenshots/03_login_screen.jpg)<br><br>
 *Secure login interface with social authentication*
 
 ### Home Screen
